@@ -32,15 +32,18 @@ export const projectsData: Project[] = [
       'Developed deep expertise in medical image preprocessing, CNN feature maps, and model optimization'
     ],
     githubUrl: 'https://github.com/NithishMee/SkinGuard-AI',
-    liveUrl: 'https://github.com/NithishMee',
+    liveUrl: 'https://skinguardai.streamlit.app',
     image: '/projects/icons/skinguard-ai.png',
     screenshots: [
-      '/projects/skinguard-ai/1-clinical-input-form.png',
-      '/projects/skinguard-ai/2-specimen-upload-preview.png',
-      '/projects/skinguard-ai/3-basal-cell-carcinoma-diagnosis.png',
-      '/projects/skinguard-ai/4-gradcam-saliency-spectrum.png',
-      '/projects/skinguard-ai/5-healthy-skin-report.png',
-      '/projects/skinguard-ai/6-tier1-non-skin-rejection.png'
+      '/projects/skinguard-ai/1.png',
+      '/projects/skinguard-ai/2.png',
+      '/projects/skinguard-ai/3.png',
+      '/projects/skinguard-ai/4.png',
+      '/projects/skinguard-ai/5.png',
+      '/projects/skinguard-ai/6.png',
+      '/projects/skinguard-ai/7.png',
+      '/projects/skinguard-ai/8.png',
+      '/projects/skinguard-ai/9.png'
     ],
     featured: true
   },
