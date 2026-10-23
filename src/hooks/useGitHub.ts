@@ -72,9 +72,9 @@ export function useGitHub(username: string) {
             repos: [
               {
                 id: 1,
-                name: 'SkinGuard-AI',
+                name: 'SkinGuardAI',
                 description: 'Deep-learning system to classify skin lesions into 7 categories using PyTorch & CNNs.',
-                html_url: `https://github.com/${username}/SkinGuard-AI`,
+                html_url: `https://github.com/${username}/SkinGuardAI`,
                 stargazers_count: 12,
                 forks_count: 4,
                 language: 'Python',

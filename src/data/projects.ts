@@ -31,7 +31,7 @@ export const projectsData: Project[] = [
       'Implemented weighted cross-entropy loss and data augmentation techniques in PyTorch',
       'Developed deep expertise in medical image preprocessing, CNN feature maps, and model optimization'
     ],
-    githubUrl: 'https://github.com/NithishMee/SkinGuard-AI',
+    githubUrl: 'https://github.com/NithishMee/SkinGuardAI',
     liveUrl: 'https://skinguardai.streamlit.app',
     image: '/projects/icons/skinguard-ai.png',
     screenshots: [
